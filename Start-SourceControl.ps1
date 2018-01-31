@@ -1,7 +1,7 @@
 workflow Start-SourceControl
 {
-#V1.0
-#This is my first Source Control Runbook
+    #V1.0
+    #This is my first Source Control Runbook
 
-Write0Output "Azure AUtomation"
+    Write-Output "Azure Automation"
 }
